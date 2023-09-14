@@ -1,2 +1,2 @@
 # Pure_JS_Practice
-This repo contains exercises for DSA
+This repo contains dump codes and exercises for DSA
