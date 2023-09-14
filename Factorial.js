@@ -11,12 +11,10 @@ const factorial = (n) => {
     product *= i;
   }
 
-  return `${bracket} => ${product}`;
+  return `[${bracket}] => ${product}`;
 }
 
-const getFactorial = (n) => {
-  return factorial(n);
-}
+console.log(factorial(5));
 
-console.log(getFactorial(5));
 
+//BIG-O => 0(n) - since the function itself has one loop occurs within.
