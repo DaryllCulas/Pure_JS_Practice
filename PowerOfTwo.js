@@ -13,4 +13,7 @@ return true;
  
 }
 
-console.log(isPowerOfTwo(5));
+// console.log(isPowerOfTwo(5));
+console.log(isPowerOfTwo(4));
+
+// BIG - O => 0(logn) -> because input size reduced by half
