@@ -1,5 +1,4 @@
 const recursiveFibonacci = (n) => {
-  const bracket = [];
   if(n < 2) {
     return n;
   } else { 
