@@ -14,4 +14,4 @@ console.log(recursiveFibonacci(1));
 console.log(recursiveFibonacci(6));
 
 // Big - O => O(n^2) -> recursive
-// Big - O => if iterative
+// Big - O => if
