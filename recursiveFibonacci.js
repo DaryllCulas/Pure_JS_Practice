@@ -8,8 +8,8 @@ const recursiveFibonacci = (n) => {
 
 }
 
-console.log(recursiveFibonacci(0));
-console.log(recursiveFibonacci(1));
+// console.log(recursiveFibonacci(0));
+// console.log(recursiveFibonacci(1));
 console.log(recursiveFibonacci(6));
 
 // Big - O => O(n^2) -> recursive
