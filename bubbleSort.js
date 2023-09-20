@@ -18,4 +18,4 @@ const arr = [8, 20, -2, 4, -6];
 bubbleSort(arr);
 console.log(arr);
 
-//Big-O => O(n^2)
+//Big-O => O(n^2) -> quadratic time complexity
