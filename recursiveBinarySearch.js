@@ -25,3 +25,5 @@ const search = (arr, target, leftIndex, rightIndex) => {
 console.log(recursiveBinarySearchAlgorithm([-5, 2, 4, 6, 10], 10));
 console.log(recursiveBinarySearchAlgorithm([-5, 2, 4, 6, 10], 6));
 console.log(recursiveBinarySearchAlgorithm([-5, 2, 4, 6, 10], 20));
+
+// Big-O => O(logn)
